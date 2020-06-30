@@ -36,7 +36,7 @@ Partial Class Form1
         Me.WebBrowser.Location = New System.Drawing.Point(12, 51)
         Me.WebBrowser.MinimumSize = New System.Drawing.Size(20, 20)
         Me.WebBrowser.Name = "WebBrowser"
-        Me.WebBrowser.Size = New System.Drawing.Size(1164, 406)
+        Me.WebBrowser.Size = New System.Drawing.Size(1335, 573)
         Me.WebBrowser.TabIndex = 0
         '
         'Button1
@@ -96,7 +96,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(1209, 482)
+        Me.ClientSize = New System.Drawing.Size(1348, 623)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Button4)
