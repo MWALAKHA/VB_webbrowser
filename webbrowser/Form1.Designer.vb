@@ -36,7 +36,7 @@ Partial Class Form1
         Me.WebBrowser.Location = New System.Drawing.Point(12, 51)
         Me.WebBrowser.MinimumSize = New System.Drawing.Size(20, 20)
         Me.WebBrowser.Name = "WebBrowser"
-        Me.WebBrowser.Size = New System.Drawing.Size(1335, 573)
+        Me.WebBrowser.Size = New System.Drawing.Size(1324, 560)
         Me.WebBrowser.TabIndex = 0
         '
         'Button1
